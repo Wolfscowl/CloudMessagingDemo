@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cloud Messaging Demo</string>
+
+    <string name="notification_title">Notification Example</string>
+    <string name="notification_text">Smile or be angry!!</string>
+
+    <string name="fcm_message">FCM Message</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="smile_notification_channel_id" translatable="false">smile_channel</string>
+</resources>
